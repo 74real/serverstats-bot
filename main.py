@@ -159,7 +159,7 @@ async def on_ready():
     print ("------------------------------------")
     print (f"Bot Name: {bot.user.name}#{bot.user.discriminator}")
     print (f"Bot ID: {bot.user.id}")
-    creator = bot.get_user(387002430602346499)
+    creator = bot.get_user(720218422222520410)
     print(f'Creator: {creator}')    #DO NOT CHANGE#
     print ("Discord Version: " + discord.__version__)
     guild = bot.get_guild(guildID)
