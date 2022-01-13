@@ -1,13 +1,13 @@
 
 
 #Main Config:#
-token = "BOT_TOKEN_HERE"                 
-CommandPrefix = "INSERT_PREFIX_HERE"    
+token = "OTMxMjk2NDU1OTI5NTAzODI0.YeCXaQ.KuWX4-Iyi1B7CdyzoD559h-2gbE"                 
+CommandPrefix = "7"    
 activitytype = 'Playing'                        #Accepted Values are Watching, Listening, Playing, or Streaming.
-botstatusmessage = 'INSERT STATUS MESSAGE HERE' 
+botstatusmessage = '7 ON TOP' 
 
 developerid = 000000000000000000                #Insert the userID here were the bot will send all error dms too. THE USER MUST BE IN THE SAME DISCORD SERVER THAT THE BOT IS IN!
-guildID = 000000000000000000                    #Insert the guildID of the server that the bot will be running in here.
+guildID = 931266588588539965                    #Insert the guildID of the server that the bot will be running in here.
 statscooldownamount = 30                        #As the bot checks for guild updates using loops, enter a loopcooldown time here, I reccomend 30 seconds as preset, anything under 15 seconds will most likely get you ratelimited by dsicord.
 embedcolor = 0x00000
 
